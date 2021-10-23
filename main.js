@@ -1,3 +1,9 @@
+function showAlertCookies() {
+  alert('Este site utiliza cookies, você aceita essa condição?')
+}
+
+showAlertCookies()
+
 const linksSocialMedia = {
   github: 'VictorCostaDev',
   youtube: 'maykbrito',
@@ -32,3 +38,4 @@ function getGithubProfileInfos() {
 }
 
 getGithubProfileInfos()
+
